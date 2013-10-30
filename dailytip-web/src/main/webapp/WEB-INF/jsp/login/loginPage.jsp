@@ -42,7 +42,7 @@
           <input type="checkbox" value="remember-me"> Lembrar-me
         </label>
         <button class="btn btn-lg btn-primary btn-block" type="submit">Entre</button>
-		<button class="btn btn-lg btn-primary btn-block" type="submit">Cadastre-se</button>
+		<a class="btn btn-lg btn-primary btn-block" href="cadastro.html">Cadastre-se</a>
       </form>
 
     </div> <!-- /container -->
